@@ -13,3 +13,4 @@
 6. Want to calculate the grade of a student 
 
 7. Write a program to find out whether a given post is talking about Harry or not. 
+    i. use post.lower in if("harry" in post.lower) to convert the Specific word to lower.
